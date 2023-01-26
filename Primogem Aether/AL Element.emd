@@ -1,0 +1,7 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = ..\..\..\MMEffects\AutoLuminous4\AL_Object.fxsub
+Obj[17] = none
+
