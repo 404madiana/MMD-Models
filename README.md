@@ -10,3 +10,6 @@ so i can update the model repository and ZIP file in MediaFire.
 Possible DM:
 - on [TikTok](https://www.tiktok.com/@mad_iana)
 - on Discord (mad_iana#0891)
+
+### About Releases..
+Yea sorry i mess up with the release tags i have no idea how it works so imma put each character to a version 😅
