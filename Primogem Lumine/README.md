@@ -12,7 +12,7 @@ This Lumine model is a previous version before HoYoverse updated
 - renamed facial morphs
 
 ## Lightmap edit
-You may copy the fx folder of Manashiku's shader to use the lightmapped model, i named mine "manashader".
+You may copy the fx folder of Manashiku's shader to use the lightmapped model, i named mine `manashader`.
 <br>cuz i have no right to redistribute the entire folder so.. ¯\ _(ツ)_/¯
 
 Manashiku's shader:
