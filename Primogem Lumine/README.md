@@ -1,7 +1,8 @@
 # Primogem Lumine Model
 ![preview](https://user-images.githubusercontent.com/86825554/215822743-1c5baff3-0b47-4e94-b445-6b4800f257d5.gif)
 
-This Lumine model is a previous version before HoYoverse updated
+Original Lumine model by **miHoYo (HoYoverse)**<br>
+*This Lumine model i edited is a previous version before HoYo updated*
 <br>Access: https://www.aplaybox.com/details/model/fyxu1HgyD14n
 
 ## Edits by mad_iana:
