@@ -1,7 +1,7 @@
 # Primogem Aether Model
 ![preview](https://user-images.githubusercontent.com/86825554/215805357-f0873733-e5f7-4960-9194-e90ef19c9f77.gif)
 
-Original Aether model provided by: miHoYo (Hoyoverse)
+Original Aether model provided by **miHoYo (HoYoverse)**
 <br>Access: https://www.aplaybox.com/details/model/bOZY8G2HosWi
 
 ## Edits by mad_iana:
