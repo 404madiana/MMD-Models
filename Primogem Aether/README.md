@@ -11,6 +11,8 @@ Original Aether model provided by **miHoYo (HoYoverse)**
 - split element parts for AutoLuminous MME
 - renamed facial morphs
 
+[Primogem root](https://www.deviantart.com/cherrypiewithpoison/art/MMD-Genshin-Impact-Primogem-DL-889064058) by CherryPieWithPoison and lukatoni5
+
 ## Lightmap edit
 You may copy the fx folder of Manashiku's shader to use the lightmapped model, i named mine `manashader`.
 <br>cuz i have no right to redistribute the entire folder so.. ¯\ _(ツ)_/¯
