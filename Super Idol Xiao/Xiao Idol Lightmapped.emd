@@ -1,0 +1,8 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = manashader\material_default.fx
+Obj.show = true
+Obj[12] = none
+
