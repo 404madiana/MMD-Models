@@ -1,5 +1,5 @@
 # MMD-Models
-This is where i put all my custom models for MikuMikuDance and their assets for ressources, feel free to download some if you miss one of these.<br>
+This is where i put all my (custom) models for MikuMikuDance and their assets for ressources, feel free to download some if you miss one of these.<br>
 My models are basically Genshini themed~ 👉👈
 
 Credits would be appreciated when use :)
