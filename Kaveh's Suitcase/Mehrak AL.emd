@@ -1,0 +1,15 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = ..\..\..\MMEffects\AutoLuminous4\AL_Object.fxsub
+Obj[1] = none
+Obj[2] = none
+Obj[3] = none
+Obj[4] = none
+Obj[7] = none
+Obj[8] = none
+Obj[9] = none
+Obj[10] = none
+Obj[11] = none
+
