@@ -9,7 +9,6 @@ Original Lumine model by **miHoYo (HoYoverse)**<br>
 - added primogem material
 - removed finger bones to fit in primogem material
 - fixed her legs so no more random fragment in the primogem
-- split element parts for AutoLuminous MME
 - renamed facial morphs
 
 [Primogem root](https://www.deviantart.com/cherrypiewithpoison/art/MMD-Genshin-Impact-Primogem-DL-889064058) by CherryPieWithPoison and lukatoni5
