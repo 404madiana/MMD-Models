@@ -23,4 +23,4 @@ Please contact me if you did any improvement of a model such as material reweigh
 so i can update the model repository.
 <br>Possible DM:
 - on [TikTok](https://www.tiktok.com/@mad_iana)
-- on Discord (mad_iana#0891)
+- on Discord ([mad_iana#0891](https://discord.com/users/714409592427380736))
